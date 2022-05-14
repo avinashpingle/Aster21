@@ -1,0 +1,6 @@
+com/resonance/keywords/APIKeywords.class
+com/resonance/utils/Environment.class
+com/resonance/utils/OR.class
+com/resonance/utils/PropertiesFile.class
+com/resonance/config/BaseTest.class
+com/resonance/keywords/UIKeywords.class
