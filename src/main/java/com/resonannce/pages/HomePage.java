@@ -38,5 +38,8 @@ public class HomePage {
 	public void clickOnAssignmentMenue() {
 		keywords.driver.findElement(assignmentLink).click();
 	}
+	public String getTitle() {
+		return keywords.driver.getTitle();
+	}
 	
 }
