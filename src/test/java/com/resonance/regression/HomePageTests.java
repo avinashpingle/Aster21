@@ -12,6 +12,6 @@ public class HomePageTests {
 	public void verifyTitleOfTheHomePage() {
 		HomePage home = new HomePage();
 		String title = home.getTitle();
-		Assert.assertEquals("Home Page", title, "Title didnt match");
+		Assert.assertEquals("Home Page | Testing Shastra", title, "Title didnt match");
 	}
 }
